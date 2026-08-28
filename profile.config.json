@@ -1,15 +1,15 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "ARYANDI",
+    "username": "Andhyonoki",
+    "headline": "SE",
+    "affiliation": "ITH",
+    "location": "Sulawesi Selatan, Indonesia",
+    "status": "Student / Builder",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build practical systems at the intersection of technology and real-world problems.",
+      "Currently focused on learning, building, and sharing what actually works."
     ]
   },
   "research": {
@@ -34,20 +34,12 @@
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Profile_",
+      "url": "https://github.com/Andhyonoki/Profile_",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "focus": "GitHub profile automation",
+      "summary": "An automated system that generates a personal GitHub profile README and hero assets.",
       "heroLabel": "Primary build"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
     }
   ],
   "techStack": [
@@ -60,8 +52,8 @@
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Andhyonoki",
+      "url": "https://github.com/Andhyonoki",
       "logo": "github",
       "color": "0B1220"
     }
