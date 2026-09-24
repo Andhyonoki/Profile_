@@ -11,3 +11,4 @@ portrait-source.*
 *.source.png
 *.source.jpg
 *.source.jpeg
+node_modules/
